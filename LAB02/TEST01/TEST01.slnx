@@ -3,5 +3,8 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="TEST01.vcxproj" />
+  <Project Path="../Variables1/Variables1.vcxproj" Id="850075a2-5c8d-401b-b3f7-2ed90c306606" />
+  <Project Path="../VariableTest2/VariableTest2.vcxproj" Id="abf058ee-d47e-4757-9405-181ff27dd5db" />
+  <Project Path="../VariableTest3/VariableTest3.vcxproj" Id="ff8a1f90-e0cd-45bd-b4d2-d5424cd83f8d" />
+  <Project Path="TEST01.vcxproj" Id="457167a9-8606-43e0-8f1a-ac14e918d609" />
 </Solution>
