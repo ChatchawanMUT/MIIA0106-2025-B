@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../../../../../MIIA0106-2025-B/LAB06/LAB0601/LAB0601.vcxproj" />
+  <Project Path="../../../../../MIIA0106-2025-B/LAB06/LAB0602/LAB0602.vcxproj" />
+  <Project Path="../../../../../MIIA0106-2025-B/LAB06/LAB0603/LAB0603.vcxproj" />
+  <Project Path="LAB0604/LAB0604.vcxproj" Id="4c45ecbd-b78d-4417-834c-95c071248447" />
+</Solution>
